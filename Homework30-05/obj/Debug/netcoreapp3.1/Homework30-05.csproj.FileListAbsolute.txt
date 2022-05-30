@@ -1,0 +1,14 @@
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\bin\Debug\netcoreapp3.1\Homework30-05.exe
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\bin\Debug\netcoreapp3.1\Homework30-05.deps.json
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\bin\Debug\netcoreapp3.1\Homework30-05.runtimeconfig.json
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\bin\Debug\netcoreapp3.1\Homework30-05.runtimeconfig.dev.json
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\bin\Debug\netcoreapp3.1\Homework30-05.dll
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\bin\Debug\netcoreapp3.1\Homework30-05.pdb
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\obj\Debug\netcoreapp3.1\Homework30-05.csproj.AssemblyReference.cache
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\obj\Debug\netcoreapp3.1\Homework30-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\obj\Debug\netcoreapp3.1\Homework30-05.AssemblyInfoInputs.cache
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\obj\Debug\netcoreapp3.1\Homework30-05.AssemblyInfo.cs
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\obj\Debug\netcoreapp3.1\Homework30-05.csproj.CoreCompileInputs.cache
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\obj\Debug\netcoreapp3.1\Homework30-05.dll
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\obj\Debug\netcoreapp3.1\Homework30-05.pdb
+C:\Users\afand\source\repos\Homework30-05\Homework30-05\obj\Debug\netcoreapp3.1\Homework30-05.genruntimeconfig.cache
